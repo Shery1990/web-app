@@ -134,4 +134,4 @@ Built for ep Iran <img src="https://raw.githubusercontent.com/IRNova/Nova-Proxy/
 
 <a href="https://star-history.com/#IRNova/Nova-Proxy&Date">Star history</a>
 
-</div>
+</div> 
